@@ -1,5 +1,5 @@
 <?
-// Ireland PlanningAlerts scraper for Limerick Councils
+// Ireland PlanningAlerts scraper for Waterford Councils
 // Uses LGMA shared backend for map data at ArcGIS.com
 //
 // John Handelaar 2017-06-27
