@@ -20,7 +20,7 @@ $remote_uri = 'https://services3.arcgis.com/vgpNvkwrqKit2cbA/arcgis/rest/service
               'outSR=4326&resultOffset=0&resultRecordCount=500';
 
 $council_eplan_root_uri = 'http://www.eplanning.ie/WaterfordCCC/';
-$council_comment_url = "hhttp://www.waterfordcouncil.ie/departments/planning/index.htm";
+$council_comment_url = "http://www.waterfordcouncil.ie/departments/planning/index.htm";
 
 /*
  ------------------------------------------------------------
